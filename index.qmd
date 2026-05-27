@@ -19,8 +19,8 @@ author:
     affiliations:
       - Curvenote
 keywords:
-  - La Palma
-  - Earthquakes
+  - Northampton
+  - West Springfield
 abstract: |
   In September 2021, a significant jump in seismic activity on the island of La Palma (Canary Islands, Spain) signaled the start of a volcanic crisis that still continues at the time of writing. Earthquake data is continually collected and published by the Instituto Geográphico Nacional (IGN). ...
 plain-language-summary: |
